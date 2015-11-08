@@ -1,4 +1,2 @@
 # badmutha
-i am cool
-i love orange
-i am learning how to hack
+i am cool, love orange, and learning hacking
